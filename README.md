@@ -1,7 +1,7 @@
 # i-Ching-Texts-XML
 Got a translation of the I Ching in xml format? Let's aggregate them!
 
-The Wilhelm Baynes example here is not my work. I found it at [Ivan Zderadika's git here](https://github.com/izderadicka/iching/blob/master/text/en/hexagrams.xml) but it looks like an relatively robust XML format that we might use as a base for other translations and the starting sketch for a standard. 
+The Wilhelm Baynes example here is not my work. I found it at [Ivan Zderadika's git here](https://github.com/izderadicka/iching/blob/master/text/en/hexagrams.xml) but it looks like a relatively robust XML format that we might use as a base for other translations and the starting sketch for a standard. 
 
 I would propose:
 a) We convene a standards group to figure out a universal Taxonomy for I Ching data structures. Who's in?
